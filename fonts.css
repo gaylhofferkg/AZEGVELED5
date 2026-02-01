@@ -1,0 +1,36 @@
+@font-face {
+   font-family: "Bebas Neue Pro";
+   src: url("fonts/Bebas Neue Pro.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bahnschrift Light";
+   src: url("fonts/Bahnschrift.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Pro SmE Eb";
+   src: url("fonts/Bebas Neue Pro SmE Eb.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "ATC Overlook";
+   src: url("fonts/ATCOverlook-Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Myriad Pro";
+   src: url("fonts/MyriadPro-Regular.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
+@font-face {
+   font-family: "Bebas Neue Pro Exp Bk";
+   src: url("fonts/Bebas Neue Pro Exp Bk.woff2") format("woff2");
+   font-weight: normal;
+   font-style: normal;
+}
